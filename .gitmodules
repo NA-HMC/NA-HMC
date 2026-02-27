@@ -1,0 +1,6 @@
+[submodule "bkse"]
+	path = bkse
+	url = https://github.com/VinAIResearch/blur-kernel-space-exploring
+[submodule "motionblur"]
+	path = motionblur
+	url = https://github.com/LeviBorodenko/motionblur
